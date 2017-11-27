@@ -1,2 +1,2 @@
 # dcegapps.github.com
-landing page of DCEG Apps
+landing page for DCEG Apps
